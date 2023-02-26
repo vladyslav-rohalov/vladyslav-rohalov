@@ -24,7 +24,7 @@
  <h3 align="left">My first HTML+CSS apps:</h3>
  - 🧮 <a href="https://vladyslav-rohalov.github.io/goit-markup-hw-08/" target="_blank">Light Website with a responsive layout</a><br>
  
- h3 align="left">Team work:</h3>
+ <h3 align="left">Team work:</h3>
   - 👯 <a href="https://olga-dames.github.io/teamProject17/" target="_blank">Ice Cream - lending website</a><br>
   - 👯 <a href="https://konstantinyevchuk.github.io/Filmoteca_team_project/index.html" target="_blank">Filmoteca - watching movie trailers</a><br>
  
