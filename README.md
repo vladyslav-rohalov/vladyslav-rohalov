@@ -19,8 +19,7 @@
 
 <h3 align="left">My first JS apps:</h3>
  - 🖼️ <a href="https://vladyslav-rohalov.github.io/goit-js-hw-11/" target="_blank">Image search from Pixabay</a><br>
- - 🏳️ <a href="https://vladyslav-rohalov.github.io/goit-js-hw-10/" target="_blank">Country Selector</a><br>
- 
+  
  <h3 align="left">My first HTML+CSS apps:</h3>
  - 🧮 <a href="https://vladyslav-rohalov.github.io/goit-markup-hw-08/" target="_blank">Light Website with a responsive layout</a><br>
  
