@@ -18,7 +18,7 @@
 
 
 <h3 align="left">My first JS apps:</h3>
- - 🖼️ <a href="https://vladyslav-rohalov.github.io/goit-js-hw-11/" target="_blank">Image search from Pixaba</a><br>
+ - 🖼️ <a href="https://vladyslav-rohalov.github.io/goit-js-hw-11/" target="_blank">Image search from Pixabay</a><br>
  - 🏳️ <a href="https://vladyslav-rohalov.github.io/goit-js-hw-10/" target="_blank">Country Selector</a><br>
  
  <h3 align="left">My first HTML+CSS apps:</h3>
