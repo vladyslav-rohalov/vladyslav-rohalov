@@ -30,7 +30,7 @@
  </a>
 </p>
 
-<h3 align="left">My first Redux apps:</h3>
+<h3 align="left">My first ReactJS & Redux apps:</h3>
  - 📒 <a href="https://vladyslav-rohalov.github.io/goit-react-hw-08-phonebook/" target="_blank">Phonebook</a><br>
 
 
