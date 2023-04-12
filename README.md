@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋 I'm a Vlad</h1>
 <h2 align="center">I'm a beginner frontend developer</h2>
 
-- 🌱 I’m currently learning **React and Redux**
+- 🌱 I’m currently learning **NodeJS and MongoDB**
 - 📫 How to reach me: **v.rohalov@gmail.com**
 - ⚡ Fun fact: I first started learning programming in 2004, my first language was Basic, then I took a 17 year break and then I took up my favorite thing again😄
 
@@ -23,7 +23,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
  </a>
  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="40" height="40"/>
  </a>
  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" alt="MongoDB" width="40" height="40"/>
