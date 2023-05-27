@@ -47,7 +47,7 @@
 <h3 align="left">My JS APP:</h3>
  - 🖼️ <a href="https://vladyslav-rohalov.github.io/goit-js-hw-11/" target="_blank">Image search from Pixabay</a><br>
   
- <h3 align="left">My first HTML+CSS apps:</h3>
+ <h3 align="left">My HTML+CSS APP:</h3>
  - 🧮 <a href="https://vladyslav-rohalov.github.io/goit-markup-hw-08/" target="_blank">Light Website with a responsive layout</a><br>
  
  <h3 align="left">Team work:</h3>
