@@ -30,16 +30,21 @@
  </a>
 </p>
 
-<h3 align="left">My first ReactJS & Redux apps:</h3>
- - 📒 <a href="https://vladyslav-rohalov.github.io/goit-react-hw-08-phonebook/" target="_blank">Phonebook</a><br>
+<h3 align="left">My ReactTS (In the process of developing...):</h3>
+ - 🦍 <a href="https://vladyslav-rohalov.github.io/ts-app/" target="_blank">NFT platform</a><br>
+ 
+<h3 align="left">My ReactJS & NodeJS APPs:</h3>
+ - 📒 <a href="https://vladyslav-rohalov.github.io/phonebook-frontend/" target="_blank">Phonebook frontend</a><br>
+ - 📒 <a href="https://vladyslav-rohalov.github.io/phonebook-backend/" target="_blank">Phonebook backend</a><br>
 
 
-<h3 align="left">My first React apps:</h3>
+<h3 align="left">My React APPs:</h3>
+- 🍒 <a href="https://vladyslav-rohalov.github.io/magic-cards/" target="_blank">Tweet cards</a><br>
  - 📽️ <a href="https://vladyslav-rohalov.github.io/goit-react-hw-05-movies/" target="_blank">Movie finder</a><br>
  - 🔍 <a href="https://vladyslav-rohalov.github.io/goit-react-hw-04-images/" target="_blank">Image finder</a><br>
 
 
-<h3 align="left">My first JS apps:</h3>
+<h3 align="left">My JS APP:</h3>
  - 🖼️ <a href="https://vladyslav-rohalov.github.io/goit-js-hw-11/" target="_blank">Image search from Pixabay</a><br>
   
  <h3 align="left">My first HTML+CSS apps:</h3>
