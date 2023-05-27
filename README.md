@@ -31,11 +31,11 @@
 </p>
 
 <h3 align="left">My ReactTS (In the process of developing...):</h3>
- - 🦍 <a href="https://vladyslav-rohalov.github.io/ts-app/" target="_blank">NFT platform</a><br>
+ - 🦍 <a href="https://github.com/vladyslav-rohalov/ts-app/" target="_blank">NFT platform</a><br>
  
 <h3 align="left">My ReactJS & NodeJS APPs:</h3>
  - 📒 <a href="https://vladyslav-rohalov.github.io/phonebook-frontend/" target="_blank">Phonebook frontend</a><br>
- - 📒 <a href="https://vladyslav-rohalov.github.io/phonebook-backend/" target="_blank">Phonebook backend</a><br>
+ - 📒 <a href="https://github.com/vladyslav-rohalov/phonebook-backend" target="_blank">Phonebook backend</a><br>
 
 
 <h3 align="left">My React APPs:</h3>
