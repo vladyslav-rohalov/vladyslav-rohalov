@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋 I'm a Vlad</h1>
-<h2 align="center">I'm a junior frontend developer</h2>
+<h2 align="center">I'm a junior Fullstack developer</h2>
 
 - 🌱 I’m currently learning **TypeScript**
 - 📫 How to reach me: **v.rohalov@gmail.com**
