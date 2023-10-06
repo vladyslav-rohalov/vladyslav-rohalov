@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋 I'm a Vlad</h1>
 <h2 align="center">I'm a junior Fullstack developer</h2>
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **Nestjs & PostgreSQL**
 - 📫 How to reach me: **v.rohalov@gmail.com**
 - ⚡ Fun fact: I first started learning programming in 2004, my first language was Basic, then I took a 17 year break and then I took up my favorite thing again😄
 
