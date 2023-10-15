@@ -1,9 +1,7 @@
 <h1 align="center">Hi there 👋 I'm a Vlad</h1>
 <h2 align="center">I'm a junior Fullstack developer</h2>
 
-- 🌱 I’m currently learning **Nestjs & PostgreSQL**
 - 📫 How to reach me: **v.rohalov@gmail.com**
-- ⚡ Fun fact: I first started learning programming in 2004, my first language was Basic, then I took a 17 year break and then I took up my favorite thing again😄
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -46,6 +44,12 @@
   </a>
    <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
+  </a>
+   <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
+     <img src="src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" alt="Nestjs" width="40" height="40"/>
+  </a>
+   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSql" width="40" height="40"/>
   </a>
 </p>
 
