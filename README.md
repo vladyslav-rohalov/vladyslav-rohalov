@@ -54,14 +54,13 @@
 </p>
 
 <h3 align="left">My works:</h3>
+  - 🏪 <a href="https://github.com/vladyslav-rohalov/smokey" target="_blank">Smokey - Hookah shop</a><br>
   - 📝 <a href="https://fstv-electro.github.io/TaskPro-prj-9/" target="_blank">TaskPro - Kanban desk</a><br>
   - 🎥 <a href="https://konstantinyevchuk.github.io/Filmoteca_team_project/index.html" target="_blank">Filmoteca - watching movie trailers</a><br>
   - 🍦 <a href="https://olga-dames.github.io/teamProject17/" target="_blank">Ice Cream - lending website</a><br>
 
  
-<h3 align="left">My Fullstack (ReactJS & ExpressJS) APPs:</h3>
- - 📒 <a href="http://3.77.179.38/" target="_blank">Phonebook frontend</a><br>
- - 📒 <a href="http://3.77.179.38/api/phonebook/" target="_blank">Phonebook backend</a><br>
+
 
 
  
