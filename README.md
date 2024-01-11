@@ -1,5 +1,4 @@
-<h1 align="center">Hi there 👋 I'm a Vlad</h1>
-<h2 align="center">I'm a junior Fullstack developer</h2>
+<h1 align="center">Hi there 👋 I'm a Vlad, Fullstack developer</h1>
 
 - 📫 How to reach me: **v.rohalov@gmail.com**
 
