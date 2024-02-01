@@ -56,6 +56,9 @@
    <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSql" width="40" height="40"/>
   </a>
+  <a href="https://redis.com/" target="_blank" rel="noreferrer">
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-plain-wordmark.svg" alt="Redis" width="40" height="40"/>
+  </a>
 </p>
 
 <h3 align="left">My works:</h3>
